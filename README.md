@@ -13,13 +13,13 @@ To run this React app locally on your machine, follow these steps:
 1. Clone this repository to your local machine using Git:
 
     ```bash
-    git clone https://github.com/tushar8342/quest.git
+    git clone https://github.com/tushar8342/zocket.git
     ```
 
 2. Navigate into the project directory:
 
     ```bash
-    cd quest
+    cd zocket
     ```
 
 3. Install the dependencies using npm or yarn:
